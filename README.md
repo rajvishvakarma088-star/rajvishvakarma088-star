@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,40:111827,75:0ea5e9,100:22d3ee&text=Modern%20App%20Developer&fontColor=f8fafc&fontSize=42&fontAlignY=40&desc=Clean%20UI%20%7C%20Smooth%20UX%20%7C%20Useful%20Products&descAlignY=58&animation=fadeIn" alt="Modern Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,45:111827,80:0ea5e9,100:22d3ee&text=App%20Developer&fontColor=f8fafc&fontSize=36&fontAlignY=42&desc=Flutter%20%7C%20Firebase%20%7C%20Android%20%7C%20Modern%20UI&descAlignY=63" alt="Modern Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Modern Developer Animation" width="720" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio" alt="App Development Icons" />
 </p>
 
 <p align="center">
