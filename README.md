@@ -1,7 +1,7 @@
 # Hey, I'm Raj Vishvakarma ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" alt="wave" />
 
 <p align="center">
-  <img src="https://github.com/Potential17/Potential17/blob/master/user%20(2).gif" alt="Coding Banner" width="700" />
+  <img src="https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/code.gif" alt="Coding Banner" width="700" />
 </p>
 
 <h3 align="center">App Developer from India</h3>
