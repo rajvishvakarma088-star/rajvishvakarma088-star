@@ -1,7 +1,7 @@
 # Hey, I'm Raj Vishvakarma ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" alt="wave" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/code.gif" alt="Coding Banner" width="700" />
+  <img src="https://camo.githubusercontent.com/7e9454d1842be2e97ef76fe9715561dfe838fc84bcfb9f621c1a14ff1b99d0eb/68747470733a2f2f776562636f6465722e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f776562736974652e676966" alt="Coding Banner" width="700" />
 </p>
 
 <h3 align="center">App Developer from India</h3>
