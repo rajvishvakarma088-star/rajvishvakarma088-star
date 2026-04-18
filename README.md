@@ -69,10 +69,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvishvakarma088-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajvishvakarma088-star&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## Connect
