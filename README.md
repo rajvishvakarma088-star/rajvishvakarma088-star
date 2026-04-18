@@ -4,7 +4,6 @@
   <img src="https://github.com/Potential17/Potential17/blob/master/user%20(2).gif" alt="Coding Banner" width="700" />
 </p>
 
-<h2 align="center">I'm Raj Vishvakarma</h2>
 <h3 align="center">App Developer from India</h3>
 
 - Working on modern mobile apps with `Flutter`, `Firebase`, and Android tools
