@@ -1,20 +1,24 @@
 # Raj Vishvakarma
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&width=900&lines=App+Developer;Flutter+%7C+Firebase+%7C+Android;Building+clean+mobile+experiences" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Raj+Vishvakarma;App+Developer;Flutter+%7C+Firebase+%7C+Android;Designing+modern+mobile+experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer Banner" width="860" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,40:111827,75:0ea5e9,100:22d3ee&text=Modern%20App%20Developer&fontColor=f8fafc&fontSize=42&fontAlignY=40&desc=Clean%20UI%20%7C%20Smooth%20UX%20%7C%20Useful%20Products&descAlignY=58&animation=fadeIn" alt="Modern Banner" width="100%" />
 </p>
 
-<p align="left">
-  Welcome to my GitHub profile. I am <strong>Raj Vishvakarma</strong>, an <strong>App Developer</strong> focused on mobile apps, smooth UI, useful products, and clean implementation.
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Modern Developer Animation" width="720" />
 </p>
 
-<p align="left">
+<p align="center">
+  Welcome to my GitHub profile. I am <strong>Raj Vishvakarma</strong>, an <strong>App Developer</strong> focused on modern mobile apps, polished interfaces, and practical products.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Role-App%20Developer-0ea5e9?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Apps-111827?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Modern%20Mobile%20UI-111827?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-14b8a6?style=for-the-badge" alt="Collaboration" />
 </p>
 
